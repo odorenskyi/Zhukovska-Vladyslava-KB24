@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1744122160 source:d:\zhukovska-vladyslava-kb24\lab08\prj\moduleszhukovsky\main.cpp
+	"ModulesZhukovsky.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<bitset>
+
+1744120531 d:\zhukovska-vladyslava-kb24\lab08\prj\moduleszhukovsky.h
+	<string>
+
