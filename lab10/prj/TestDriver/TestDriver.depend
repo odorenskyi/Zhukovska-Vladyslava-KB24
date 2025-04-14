@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744638220 source:d:\zhukovska-vladyslava-kb24\lab10\prj\testdriver\main.cpp
+	"ModulesZhukovsky.h"
+	<windows.h>
+	<iostream>
+	<limits>
+	<string>
+
+1744638182 d:\zhukovska-vladyslava-kb24\lab08\prj\moduleszhukovsky.h
+	<string>
+
